@@ -1,0 +1,17 @@
+[Thu Nov 05 10:50:16.567736 2020] [:notice] [pid 47781] FastCGI: process manager initialized (pid 47781)
+[Thu Nov 05 10:50:16.570994 2020] [mpm_prefork:notice] [pid 47772] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.9 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Nov 05 10:50:16.571338 2020] [core:notice] [pid 47772] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Nov 05 10:50:56.182341 2020] [mpm_prefork:notice] [pid 47772] AH00169: caught SIGTERM, shutting down
+[Thu Nov 05 10:52:52.589638 2020] [:notice] [pid 48287] FastCGI: process manager initialized (pid 48287)
+[Thu Nov 05 10:52:52.658585 2020] [mpm_prefork:notice] [pid 48283] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.9 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Nov 05 10:52:52.658905 2020] [core:notice] [pid 48283] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Nov 05 16:26:04.506081 2020] [mpm_prefork:notice] [pid 48283] AH00169: caught SIGTERM, shutting down
+[Thu Nov 05 16:27:10.952487 2020] [:notice] [pid 68010] FastCGI: process manager initialized (pid 68010)
+[Thu Nov 05 16:27:10.960989 2020] [mpm_prefork:notice] [pid 67998] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.9 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Nov 05 16:27:10.963504 2020] [core:notice] [pid 67998] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Nov 05 19:00:26.013780 2020] [mpm_prefork:notice] [pid 67998] AH00169: caught SIGTERM, shutting down
+[Thu Nov 05 19:00:50.733826 2020] [:notice] [pid 75747] FastCGI: process manager initialized (pid 75747)
+[Thu Nov 05 19:00:50.752328 2020] [mpm_prefork:notice] [pid 75743] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.9 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Thu Nov 05 19:00:50.752974 2020] [core:notice] [pid 75743] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Nov 05 23:48:38.957774 2020] [php7:error] [pid 75751] [client ::1:52778] script '/Applications/MAMP/htdocs/top.blade.php' not found or unable to stat
+[Fri Nov 06 17:30:52.583953 2020] [php7:error] [pid 75751] [client ::1:55854] script '/Applications/MAMP/htdocs/clone/index.php' not found or unable to stat

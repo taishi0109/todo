@@ -1,0 +1,14 @@
+[06-Nov-2020 08:25:03 UTC] PHP Warning:  require(/Applications/MAMP/htdocs/clone/public/../vendor/autoload.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/clone/public/index.php on line 34
+[06-Nov-2020 08:25:03 UTC] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/clone/public/../vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.9/lib/php') in /Applications/MAMP/htdocs/clone/public/index.php on line 34
+[06-Nov-2020 08:32:03 UTC] PHP Warning:  require(/Applications/MAMP/htdocs/clone/public/../vendor/autoload.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/clone/public/index.php on line 34
+[06-Nov-2020 08:32:03 UTC] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/clone/public/../vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.9/lib/php') in /Applications/MAMP/htdocs/clone/public/index.php on line 34
+[06-Nov-2020 08:33:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /Applications/MAMP/htdocs/clone/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/clone/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[06-Nov-2020 08:34:18 UTC] PHP Warning:  require(/Applications/MAMP/htdocs/clone/public/../vendor/autoload.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/clone/public/index.php on line 34
+[06-Nov-2020 08:34:18 UTC] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/clone/public/../vendor/autoload.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.9/lib/php') in /Applications/MAMP/htdocs/clone/public/index.php on line 34
+[06-Nov-2020 08:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /Applications/MAMP/htdocs/clone/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/clone/bootstrap/app.php on line 14
