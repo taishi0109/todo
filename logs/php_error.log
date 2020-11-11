@@ -12,3 +12,74 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /Applications/MAMP/htdocs/clone/bootstrap/app.php on line 14
+[07-Nov-2020 04:12:38 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/sent.php on line 26
+[07-Nov-2020 04:12:38 UTC] PHP Notice:  Undefined index: age in /Applications/MAMP/htdocs/sent.php on line 29
+[07-Nov-2020 04:12:38 UTC] PHP Notice:  Undefined index: category in /Applications/MAMP/htdocs/sent.php on line 33
+[07-Nov-2020 04:12:38 UTC] PHP Notice:  Undefined index: body in /Applications/MAMP/htdocs/sent.php on line 36
+[07-Nov-2020 04:13:25 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/sent.php on line 26
+[07-Nov-2020 04:13:25 UTC] PHP Notice:  Undefined index: age in /Applications/MAMP/htdocs/sent.php on line 29
+[07-Nov-2020 04:13:25 UTC] PHP Notice:  Undefined index: category in /Applications/MAMP/htdocs/sent.php on line 33
+[07-Nov-2020 04:13:25 UTC] PHP Notice:  Undefined index: body in /Applications/MAMP/htdocs/sent.php on line 36
+[09-Nov-2020 14:56:33 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/todo.php on line 41
+[09-Nov-2020 15:06:44 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/kiso.php on line 7
+[09-Nov-2020 15:09:50 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /Applications/MAMP/htdocs/kiso.php on line 15
+[09-Nov-2020 15:11:43 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/kiso.php on line 7
+[09-Nov-2020 15:13:35 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/kiso.php on line 7
+[09-Nov-2020 15:17:20 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/kiso.php on line 7
+[09-Nov-2020 15:18:17 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/kiso.php on line 7
+[09-Nov-2020 15:18:36 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/kiso.php on line 7
+[09-Nov-2020 15:18:37 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/kiso.php on line 7
+[09-Nov-2020 15:18:47 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/kiso.php on line 7
+[09-Nov-2020 15:19:29 UTC] PHP Notice:  Undefined variable: aです。 in /Applications/MAMP/htdocs/kiso.php on line 7
+[09-Nov-2020 15:34:14 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/todo.php on line 38
+[10-Nov-2020 04:35:19 UTC] PHP Notice:  Undefined index: input_data_now in /Applications/MAMP/htdocs/weigth.php on line 3
+[10-Nov-2020 04:35:19 UTC] PHP Notice:  Undefined index: input_data_goal in /Applications/MAMP/htdocs/weigth.php on line 4
+[10-Nov-2020 04:35:51 UTC] PHP Notice:  Undefined index: input_data_now in /Applications/MAMP/htdocs/weigth.php on line 3
+[10-Nov-2020 04:35:51 UTC] PHP Notice:  Undefined index: input_data_goal in /Applications/MAMP/htdocs/weigth.php on line 4
+[10-Nov-2020 05:33:25 UTC] PHP Notice:  Undefined index: input_data_now in /Applications/MAMP/htdocs/list.php on line 3
+[10-Nov-2020 05:33:25 UTC] PHP Notice:  Undefined index: input_data_goal in /Applications/MAMP/htdocs/list.php on line 4
+[10-Nov-2020 05:33:30 UTC] PHP Notice:  Undefined index: input_data_now in /Applications/MAMP/htdocs/list.php on line 3
+[10-Nov-2020 05:33:30 UTC] PHP Notice:  Undefined index: input_data_goal in /Applications/MAMP/htdocs/list.php on line 4
+[10-Nov-2020 05:40:31 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/list.php on line 2
+[10-Nov-2020 05:40:31 UTC] PHP Notice:  Undefined index: message in /Applications/MAMP/htdocs/list.php on line 3
+[10-Nov-2020 06:00:43 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/november/list.php on line 2
+[10-Nov-2020 06:00:43 UTC] PHP Notice:  Undefined index: message in /Applications/MAMP/htdocs/november/list.php on line 3
+[10-Nov-2020 06:21:38 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/MAMP/htdocs/november/list.php on line 9
+[10-Nov-2020 06:23:36 UTC] PHP Warning:  fopen(bord.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/november/list.php on line 14
+[10-Nov-2020 06:23:36 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/november/list.php on line 17
+[10-Nov-2020 06:24:28 UTC] PHP Warning:  fopen(bord.txt): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/november/list.php on line 14
+[10-Nov-2020 06:24:28 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/november/list.php on line 17
+[10-Nov-2020 06:54:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /Applications/MAMP/htdocs/november/name.php on line 11
+[10-Nov-2020 06:54:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /Applications/MAMP/htdocs/november/name.php on line 11
+[10-Nov-2020 06:56:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/november/name.php on line 14
+[10-Nov-2020 06:56:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/november/name.php on line 14
+[10-Nov-2020 07:40:50 UTC] PHP Notice:  Undefined variable: z in /Applications/MAMP/htdocs/november/name.php on line 11
+[10-Nov-2020 07:40:52 UTC] PHP Notice:  Undefined variable: z in /Applications/MAMP/htdocs/november/name.php on line 11
+[10-Nov-2020 08:44:26 UTC] PHP Notice:  Undefined offset: 5 in /Applications/MAMP/htdocs/november/name.php on line 9
+[10-Nov-2020 08:44:27 UTC] PHP Notice:  Undefined offset: 5 in /Applications/MAMP/htdocs/november/name.php on line 9
+[10-Nov-2020 09:13:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function say_hallo() in /Applications/MAMP/htdocs/november/name.php:7
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/november/name.php on line 7
+[10-Nov-2020 09:13:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function say_hallo() in /Applications/MAMP/htdocs/november/name.php:7
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/november/name.php on line 7
+[10-Nov-2020 09:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function say_hallo() in /Applications/MAMP/htdocs/november/name.php:7
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/november/name.php on line 7
+[10-Nov-2020 09:25:21 UTC] PHP Notice:  Undefined variable: reslut in /Applications/MAMP/htdocs/november/name.php on line 14
+[10-Nov-2020 09:40:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Student::avg(), 0 passed in /Applications/MAMP/htdocs/november/name.php on line 11 and exactly 2 expected in /Applications/MAMP/htdocs/november/name.php:4
+Stack trace:
+#0 /Applications/MAMP/htdocs/november/name.php(11): Student->avg()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/november/name.php on line 4
+[10-Nov-2020 09:40:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Student::avg(), 0 passed in /Applications/MAMP/htdocs/november/name.php on line 11 and exactly 2 expected in /Applications/MAMP/htdocs/november/name.php:4
+Stack trace:
+#0 /Applications/MAMP/htdocs/november/name.php(11): Student->avg()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/november/name.php on line 4
+[10-Nov-2020 10:06:03 UTC] PHP Notice:  Undefined variable: result in /Applications/MAMP/htdocs/november/name.php on line 39
+[10-Nov-2020 10:06:28 UTC] PHP Notice:  Undefined variable: result in /Applications/MAMP/htdocs/november/name.php on line 39
+[10-Nov-2020 10:09:00 UTC] PHP Notice:  Undefined variable: result in /Applications/MAMP/htdocs/november/name.php on line 39

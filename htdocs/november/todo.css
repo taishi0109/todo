@@ -1,0 +1,16 @@
+body {
+    /* background-color:darkolivegreen; */
+    text-align: center;
+    background-image: url("https://www.photolibrary.jp/mhd6/img502/450-20161208153008328457.jpg");
+    background-size: cover;
+
+}
+
+td {
+    color: white;
+    font-size: 50px;
+}
+
+p {
+    color:red;
+}

@@ -15,3 +15,42 @@
 [Thu Nov 05 19:00:50.752974 2020] [core:notice] [pid 75743] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
 [Thu Nov 05 23:48:38.957774 2020] [php7:error] [pid 75751] [client ::1:52778] script '/Applications/MAMP/htdocs/top.blade.php' not found or unable to stat
 [Fri Nov 06 17:30:52.583953 2020] [php7:error] [pid 75751] [client ::1:55854] script '/Applications/MAMP/htdocs/clone/index.php' not found or unable to stat
+[Sat Nov 07 11:24:28.716906 2020] [php7:error] [pid 76499] [client ::1:50336] script '/Applications/MAMP/htdocs/sent.php' not found or unable to stat, referer: http://localhost/todo.php
+[Mon Nov 09 13:48:40.258017 2020] [mpm_prefork:notice] [pid 75743] AH00169: caught SIGTERM, shutting down
+[Mon Nov 09 14:23:28.414391 2020] [:notice] [pid 996] FastCGI: process manager initialized (pid 996)
+[Mon Nov 09 14:23:28.419184 2020] [mpm_prefork:notice] [pid 989] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.9 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Mon Nov 09 14:23:28.419589 2020] [core:notice] [pid 989] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Nov 10 13:36:03.510541 2020] [php7:error] [pid 998] [client ::1:62955] script '/Applications/MAMP/htdocs/weight.php' not found or unable to stat, referer: http://localhost/weigth.php
+[Tue Nov 10 15:28:35.490137 2020] [php7:error] [pid 3414] [client ::1:50680] script '/Applications/MAMP/htdocs/name.php' not found or unable to stat
+[Wed Nov 11 10:09:18.121867 2020] [php7:error] [pid 3414] [client ::1:59808] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat, referer: http://localhost/todo.php
+[Wed Nov 11 10:09:21.104062 2020] [php7:error] [pid 3414] [client ::1:59808] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat, referer: http://localhost/todo.php
+[Wed Nov 11 10:09:21.692146 2020] [php7:error] [pid 3414] [client ::1:59808] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat, referer: http://localhost/todo.php
+[Wed Nov 11 10:09:49.877567 2020] [php7:error] [pid 1001] [client ::1:59809] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat, referer: http://localhost/todo.php
+[Wed Nov 11 10:09:50.375716 2020] [php7:error] [pid 1001] [client ::1:59809] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat, referer: http://localhost/todo.php
+[Wed Nov 11 10:10:08.033924 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat, referer: http://localhost/todo.php
+[Wed Nov 11 10:10:08.655237 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat, referer: http://localhost/todo.php
+[Wed Nov 11 10:10:11.306042 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:18.407724 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:18.663240 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:18.874230 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:19.057476 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:19.210730 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:28.722274 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:29.459721 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:29.973441 2020] [php7:error] [pid 1021] [client ::1:59811] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:58.408210 2020] [php7:error] [pid 999] [client ::1:59821] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:58.898270 2020] [php7:error] [pid 999] [client ::1:59821] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:59.103347 2020] [php7:error] [pid 999] [client ::1:59821] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:59.307814 2020] [php7:error] [pid 999] [client ::1:59821] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:59.459627 2020] [php7:error] [pid 999] [client ::1:59821] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:10:59.654623 2020] [php7:error] [pid 999] [client ::1:59821] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:12.911240 2020] [php7:error] [pid 998] [client ::1:59822] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:13.472212 2020] [php7:error] [pid 998] [client ::1:59822] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:13.873792 2020] [php7:error] [pid 998] [client ::1:59822] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:40.101130 2020] [php7:error] [pid 1019] [client ::1:59824] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:40.693598 2020] [php7:error] [pid 1019] [client ::1:59824] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:40.890631 2020] [php7:error] [pid 1019] [client ::1:59824] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:59.154739 2020] [php7:error] [pid 997] [client ::1:59830] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:59.536988 2020] [php7:error] [pid 997] [client ::1:59830] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:59.747894 2020] [php7:error] [pid 997] [client ::1:59830] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
+[Wed Nov 11 10:11:59.916004 2020] [php7:error] [pid 997] [client ::1:59830] script '/Applications/MAMP/htdocs/todo.php' not found or unable to stat
