@@ -64,3 +64,7 @@ Version: '5.7.30'  socket: '/Applications/MAMP/tmp/mysql/mysql.sock'  port: 3306
 2020-11-10T17:26:46.673162Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 4765989ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
 2020-11-11T00:26:48.257955Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 25188783ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
 2020-11-11T01:02:28.673704Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2121867ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-11-11T05:09:37.302661Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 30474ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-11-11T08:10:29.302672Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 10803352ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-11-11T09:27:14.723049Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 4592967ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-11-11T10:14:13.318588Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2376967ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
